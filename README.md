@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lelyleon
 - 👀 I’m interested in ... learning Wed and Mobil Development
 - 🌱 I’m currently learning ... Wed and Mobil Development
-- 💞️ I’m looking to collaborate on ... watever I can
+- 💞️ I’m looking to collaborate on ... whatever I can
 - 📫 How to reach me ... through here 
 
 <!---
